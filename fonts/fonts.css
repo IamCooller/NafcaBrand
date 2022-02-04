@@ -1,0 +1,41 @@
+@font-face {
+    font-family: "OpenSans";
+    src: url("OpenSans-Regular.ttf");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "OpenSans-bold";
+    src: url("OpenSans-Bold.ttf");
+    font-style: normal;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: "Futura";
+    src: url("futura_bold.ttf");
+    font-style: normal;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "HelveticaNeue";
+    src: url("./HelveticaNeueCyr-Roman.ttf");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "HelveticaNeue";
+    src: url("./HelveticaNeueCyr-Bold.ttf");
+    font-style: normal;
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: "Impact";
+    src: url("./Impact_Regular.ttf");
+    font-style: normal;
+    font-weight: 400;
+}
